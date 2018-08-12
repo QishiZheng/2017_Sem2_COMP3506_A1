@@ -1,5 +1,8 @@
 # 2017_Sem2_COMP3506_A1
-This is a copy of my solution for the COMP3506 Algorithms and Data Struture Assignment 1 in 2017. Nothing from Java Framework Collection in the JDK was used for the implementation of the Abstract Data Types (ADTs) or Concrete Data Types (CDTs) in the assignment. The implementation of the data structures used in the assignment was based on basic Java language constructs and not libraries.
+This is a copy of my solution for the COMP3506 Algorithms and Data Structure Assignment 1 in 2017 Semster 2 at The University of Queensland. 
+
+Nothing from Java Framework Collection in the JDK was used for the implementation of the Abstract Data Types (ADTs) or Concrete Data Types (CDTs) in the assignment. The implementation of the data structures used in the assignment was based on basic Java language constructs and not libraries.
+
 ## Assignment Contents
 ### Introduction
 Data structures are a core part of the design of most applications. Games are one problem domain in which the choice of data structures and algorithms is a crucial part of the design process. In this first assignment you will implement three concrete data types that could be used in a game.
